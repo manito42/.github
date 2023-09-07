@@ -12,16 +12,21 @@
 - 멘토링 예약 및 이메일을 통한 알림
 
 ### 개발 인력
-#### 초기 기획
+#### 기획 & 디자인
 - ⭐️ sungjpar ([@JuneParkCode](https://github.com/JuneParkCode))
 - ⭐️ gulee ([@9utty](https://github.com/9utty))
 #### 백엔드
-- sungjpar ([@JuneParkCode](https://github.com/JuneParkCode))
-- myukang ([@koreanddinghwan](https://github.com/koreanddinghwan))
+- ⭐️ sungjpar ([@JuneParkCode](https://github.com/JuneParkCode))
+- ⭐️ myukang ([@koreanddinghwan](https://github.com/koreanddinghwan))
 #### 프론트엔드
-- gulee ([@9utty](https://github.com/9utty))
+- ⭐️ gulee ([@9utty](https://github.com/9utty))
+- ⭐️ sungjpar ([@JuneParkCode](https://github.com/JuneParkCode))
+- ⭐️ sangylee ([@falconlee236](https://github.com/falconlee236))
+- soo ([@obvoso](https://github.com/obvoso))
+- jinkim2 ([@jinaji](https://github.com/jinaji))
+
+#### Contributor
 - nkim ([@nyeoni](https://github.com/nyeoni))
-- sangylee ([@falconlee236](https://github.com/falconlee236))
 ### 기술 스택
 #### 백엔드
 - TypeScript
