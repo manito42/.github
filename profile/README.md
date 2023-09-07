@@ -45,7 +45,6 @@
 #### 프론트엔드
 - Next.js
 - Typescript
-- ESlint
 - Tailwind
 - RTK
 - RTKQuery
